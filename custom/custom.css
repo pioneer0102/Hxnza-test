@@ -1,0 +1,18 @@
+table {
+    border-collapse: collapse;
+    width: 500px;
+    text-align: left;
+}
+
+tr {
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+}
+
+td{
+    font-weight: 400;
+    font-size: 12px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
